@@ -1,4 +1,4 @@
-public class LinkedListPQ<E> {
+public class LinkedListPQ <E> {
     private E root;
     private int size;
     private int height;
